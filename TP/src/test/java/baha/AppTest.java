@@ -42,25 +42,6 @@ public class AppTest {
             assertEquals("Cannot divide by zero", e.getMessage());
         }
     } 
-    // Integration Test
-    @Test
-    public void testIntegration() {
-        // Placeholder for integration test
-        // Perform integration testing between different components or modules
-    }
-
-    // Performance Test
-    @Test
-    public void testPerformance() {
-        // Placeholder for performance test
-        // Evaluate the performance characteristics of the Calculator class
-    }
-
-    // Security Test
-    @Test
-    public void testSecurity() {
-        // Placeholder for security test
-        // Assess the security posture of the Calculator class
-    }
+   
 }
  
